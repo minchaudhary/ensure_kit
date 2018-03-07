@@ -1,64 +1,64 @@
 {
     "product": [
       {
-        code:'fire',
-        title: 'Fire Insurance',
-        note:'',
-        icon: 'bonfire'
+        "code":"fire",
+        "title": "Fire Insurance",
+        "note":"",
+        "icon": "bonfire"
       },
       {
-        code:'motor',
-        title: 'Motor Insurance',
-        note:'',
-        icon: 'car'
+        "code":"motor",
+        "title": "Motor Insurance",
+        "note":"",
+        "icon": "car"
       },
       {
-        code:'aviation',
-        title: 'Aviation Insurance',
-        note:'',
-        icon: 'jet'
+        "code":"aviation",
+        "title": "Aviation Insurance",
+        "note":"",
+        "icon": "jet"
       },
       {
-        code:'marine',
-        title: 'Marine Insurance',
-        note:'',
-        icon: 'boat'
+        "code":"marine",
+        "title": "Marine Insurance",
+        "note":"",
+        "icon": "boat"
       },
       {
-        code:'engineering',
-        title: 'Engineering Insurance',
-        note:'',
-        icon: 'construct'
+        "code":"engineering",
+        "title": "Engineering Insurance",
+        "note":"",
+        "icon": "construct"
       },
       {
-        code:'fire',
-        title: 'Medical Aid Insurance',
-        note:'',
-        icon: 'medkit'
+        "code":"fire",
+        "title": "Medical Aid Insurance",
+        "note":"",
+        "icon": "medkit"
       },
       {
-        code:'fire',
-        title: 'Miscellaneous Insurance',
-        note:'',
-        icon: 'aperture'
+        "code":"fire",
+        "title": "Miscellaneous Insurance",
+        "note":"",
+        "icon": "aperture"
       },
       {
-        code:'fire',
-        title: 'Travelling Medical Insurance',
-        note:'',
-        icon: 'bus'
+        "code":"fire",
+        "title": "Travelling Medical Insurance",
+        "note":"",
+        "icon": "bus"
       },
       {
-        code:'fire',
-        title: 'Professional Indemnity Insurance Policy for Doctors & Medical Practitional',
-        note:'',
-        icon: 'contacts'
+        "code":"fire",
+        "title": "Professional Indemnity Insurance Policy for Doctors & Medical Practitional",
+        "note":"",
+        "icon": "contacts"
       },
       {
-        code:'fire',
-        title: 'Policy for Doctors & Medical Practioners',
-        note:'',
-        icon: 'color-fill'
+        "code":"fire",
+        "title": "Policy for Doctors & Medical Practioners",
+        "note":"",
+        "icon": "color-fill"
       }
     ]
 }
