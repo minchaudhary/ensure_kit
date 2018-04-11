@@ -4,61 +4,73 @@
         "code":"fire",
         "title": "Fire Insurance",
         "note":"",
-        "icon": "bonfire"
+        "icon": "bonfire",
+		"img":"fire.jpg",
+		"desc":"Under this insurance policy, the main risk covered is fire. Also included under this scheme are the risks arising from lightning, losses resulting from earthquake, hooliganism and strikes, malicious acts, terrorism, explosion, floods, inundation, cyclones and windstorms, landslides, aero plane or accidental drop of goods from aero plane, etc."
       },
       {
         "code":"motor",
         "title": "Motor Insurance",
         "note":"",
-        "icon": "car"
+        "icon": "car",
+		"img":"motor.jpg",
+		"desc":"Under this plan, two types of insurance (comprehensive and third party liability) are offered to three types of vehicles, viz. large, light and two-wheelers. As the possibility of accidents is constantly on the rise, this insurance stands out to be instrumental."
       },
       {
         "code":"aviation",
         "title": "Aviation Insurance",
         "note":"",
-        "icon": "jet"
+        "icon": "jet",
+		"img":"aviation.jpg",
+		"desc":"This insurance operates to cover for the risks of possible losses that may be suffered by aircrafts such as aero planes, helicopters, etc. and it also embraces the risk of losses that may be caused by these aircrafts."
       },
       {
         "code":"marine",
         "title": "Marine Insurance",
         "note":"",
-        "icon": "boat"
+        "icon": "boat",
+		"img":"mariaine.jpg",
+		"desc":"Under this scheme, losses and damages that may be incurred by ships, the goods stationed in such ships and the losses and damages that may be suffered while transporting these goods to their respective destinations through other modes of transport are covered for."
       },
       {
         "code":"engineering",
         "title": "Engineering Insurance",
         "note":"",
-        "icon": "construct"
+        "icon": "construct",
+		"img":"enn.jpg",
+		"desc":"Under this insurance, the following schemes are included:\n\n Contractor Overall Risk Insurance\n Machinery Overall Risk Insurance\nBoiler Insurance"
       },
       {
-        "code":"fire",
+        "code":"medical",
         "title": "Medical Aid Insurance",
         "note":"",
-        "icon": "medkit"
+        "icon": "medkit",
+		"img":"medical.jpg",
+		"desc":"In this insurance, the expenses resulting from the medical treatment of the personnel employed in any institutions or offices and their families are covered for. Illness during travel is also embraced under this insurance policy."
       },
       {
-        "code":"fire",
+        "code":"miscellaneous",
         "title": "Miscellaneous Insurance",
         "note":"",
-        "icon": "aperture"
+        "icon": "aperture",
+		"img":"miscellaneous.jpg",
+		"desc":"Personal Accident Insurance\n\nThis insurance works to relieve the economic burden that may arise from possible losses as a result of individual accidents of persons. This scheme bears the compensation as per the insurance sum to the loss of limbs or organs, incapacitation of whole body, disability or death.\n\nCash In Transit Insurance\n\nThis plan covers the possible losses or damages that may be incurred while shifting cash from one bank to the other or from one place to the other.\n\nBurglary & House Breaking Insurance\n\nThis insurance is done against the damages arising from the loss of goods kept in safe places through the acts of forceful and violent burglary or robbery.\n\nWorkmen Compensation Insurance\n\nThis insurance is done against the possible losses arising from the accidents of the workers employed in an industry or factory or other such contingencies.\n\nFidelity Guarantee Insurance\n\nThis insurance is undertaken against the possible losses resulting from the lack of integrity of the employees involved in cash transactions working in the industry, commerce and banking sectors.\n\nBankers Blanket Insurance\n\nAs per this plan, the overall transactions of financial institutions such as the banks, finance companies, etc. are insured under one umbrella rather than separate insurances for each.\n\nPublic Liability Insurance\n\nThis insurance is undertaken against the possible losses or damages upon the general public due to the recklessness of any person or institution.\n\nHousehold Insurance\n\nThis plan covers the possible losses resulting from fire, lightning, earthquake, floods, landslides, hooliganism, collision of vehicles, theft against houses of individual residence and the goods and materials stationed therein, etc.\n\nMiscellaneous\n\nUnder this head, other insurances as required may be done. For example: Crop Insurance, Livestock Insurance, Mountaineering Accident Insurance, Water Rafting Accident Insurance, etc."
       },
       {
-        "code":"fire",
+        "code":"tmi",
         "title": "Travelling Medical Insurance",
         "note":"",
-        "icon": "bus"
+        "icon": "bus",
+		"img":"miscellaneous.jpg",
+		"desc":"The objective of this insurance is to secure the doctor in compensation for the death or other losses of the patient when the doctor errs while providing medical services. And other objective of this insurance is to secure the health service provider agencies in compensation in case the patient dies, suffers from loss of limbs or organs or other damages as a result of mistake in services or accident on the part of hospitals, nursing homes, polyclinics or any health service provider agencies while providing medical services."
       },
       {
-        "code":"fire",
+        "code":"professional",
         "title": "Professional Indemnity Insurance Policy for Doctors & Medical Practitional",
         "note":"",
-        "icon": "contacts"
-      },
-      {
-        "code":"fire",
-        "title": "Policy for Doctors & Medical Practioners",
-        "note":"",
-        "icon": "color-fill"
+        "icon": "contacts",
+		"img":"miscellaneous.jpg",
+		"desc":"The objective of this insurance is to secure the doctor in compensation for the death or other losses of the patient when the doctor while providing medical services. And other objective of this insurance is to secure the health service provider agencies in compensation in case the patient dies, suffers from loss of limbs or organs or other damages as a result of mistake in services or accident on the part of the hospital, nursing homes, polyclinics or any health service provider agencies while providing medical services."
       }
     ]
 }
